@@ -1,0 +1,13 @@
+{
+  "n_periods": 4221,
+  "pred_corr": -0.0383,
+  "full_sharpe": 0.749,
+  "tstat": 1.47,
+  "is_sharpe": 1.107,
+  "oos_sharpe": -0.047,
+  "boot_ci": [
+    -0.201,
+    1.716
+  ],
+  "avg_funding_annualized_pct": 11.9
+}
